@@ -1,4 +1,4 @@
-# cache
+”# cache
 
 
 dns加速域名
@@ -63,7 +63,8 @@ cache.wuxianshudian.top(eu.org不可用)
 
 服务商. publicdns.dnscache.wuxianshudian.top(eu.org不可用)
 
-公共dns
+公共dns原则
+先国内在国外(先近再远），先路由和任播(很多服务器群集 自动选择最佳线路。)然后再说普通的服务器。先支持edns和dnssec和大ttl 其次是普通服务器。
 
 
 
